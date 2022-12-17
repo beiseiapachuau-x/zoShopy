@@ -1,0 +1,74 @@
+[
+	{
+		"name": "admin",
+		"phone": "9999999999",
+		"email": "admin@gmail.com",
+		"password": "admin"
+	},
+	{
+		"name": "user",
+		"phone": "0000000000",
+		"email": "user@gmail.com",
+		"password": "user"
+	},
+	{
+		"name": "beiseia",
+		"phone": "1234567891",
+		"email": "abcd@gmail.com",
+		"password": "1234567"
+	},
+	{
+		"name": "tetea",
+		"phone": "9876543219",
+		"email": "tetea@gmail.com",
+		"password": "abcdef"
+	},
+	{
+		"name": "mami",
+		"phone": "1232343454",
+		"email": "mami@gmail.com",
+		"password": "hellokitty"
+	},
+	{
+		"name": "tluangi",
+		"phone": "9999999000",
+		"email": "tluangi@gmail.com",
+		"password": "tluangi12"
+	},
+	{
+		"name": "dawngi",
+		"phone": "8675463859",
+		"email": "dawngi3@gmail.com",
+		"password": "dawngi"
+	},
+	{
+		"name": "parmawii",
+		"phone": "9898989898",
+		"email": "roberasd@gmail.com",
+		"password": "asdbvcb"
+	},
+	{
+		"name": "lily",
+		"phone": "497583627",
+		"email": "dragon@gmail.com",
+		"password": "asdaxcz"
+	},
+	{
+		"name": "onion",
+		"phone": "1234567891",
+		"email": "abcgjh@gmail.com",
+		"password": "1234567"
+	},
+	{
+		"name": "fsdfsdf",
+		"phone": "1234567891",
+		"email": "abcdsdf@gmail.com",
+		"password": "123ds4567"
+	},
+	{
+		"name": "beissdfeia",
+		"phone": "1234567891",
+		"email": "absdfcd@gmail.com",
+		"password": "12sdf34567"
+	}
+]

@@ -1,0 +1,122 @@
+[
+	{
+		"category": "Computers",
+		"image": "Computers/a.jpg",
+		"name": "lenovo",
+		"price": 12000,
+		"brand": "think Vision",
+		"description": "Lorem ipsum dolor sit amet. A nisi modi et quia rerum est optio maiores. Et aliquam voluptatem ex nihil iusto sit dolor quod! Aut numquam"
+	},
+	{
+		"category": "Computers",
+		"image": "Computers/b.jpg",
+		"name": "lenovo M92p",
+		"price": 13000,
+		"brand": "think Center",
+		"description": "Lorem ipsum dolor sit amet. A nisi modi et quia rerum est optio maiores. Et aliquam voluptatem ex nihil iusto sit dolor quod! Aut numquam"
+	},
+	{
+		"category": "Computers",
+		"image": "Computers/c.jpg",
+		"name": "optiplex",
+		"price": 45000,
+		"brand": "Dell",
+		"description": "Lorem ipsum dolor sit amet. A nisi modi et quia rerum est optio maiores. Et aliquam voluptatem ex nihil iusto sit dolor quod! Aut numquam"
+	},
+	{
+		"category": "Computers",
+		"image": "Computers/d.jpg",
+		"name": "carbon 33",
+		"price": 50000,
+		"brand": "acer",
+		"description": "Lorem ipsum dolor sit amet. A nisi modi et quia rerum est optio maiores. Et aliquam voluptatem ex nihil iusto sit dolor quod! Aut numquam"
+	},
+	{
+		"category": "Computers",
+		"image": "Computers/e.jpg",
+		"name": "thinkpad",
+		"price": 22000,
+		"brand": "asus",
+		"description": "Lorem ipsum dolor sit amet. A nisi modi et quia rerum est optio maiores. Et aliquam voluptatem ex nihil iusto sit dolor quod! Aut numquam"
+	},
+	{
+		"category": "Keyboards",
+		"image": "Keyboards/a.jpg",
+		"name": "zebronics",
+		"price": 1200,
+		"brand": "logitech",
+		"description": "Lorem ipsum dolor sit amet. A nisi modi et quia rerum est optio maiores. Et aliquam voluptatem ex nihil iusto sit dolor quod! Aut numquam"
+	},
+	{
+		"category": "Keyboards",
+		"image": "Keyboards/b.jpg",
+		"name": "qwerty",
+		"price": 1300,
+		"brand": "logitech",
+		"description": "Lorem ipsum dolor sit amet. A nisi modi et quia rerum est optio maiores. Et aliquam voluptatem ex nihil iusto sit dolor quod! Aut numquam"
+	},
+	{
+		"category": "Laptops",
+		"image": "Laptops/a.jpg",
+		"name": "Alienware",
+		"price": 55000,
+		"brand": "dell",
+		"description": "Lorem ipsum dolor sit amet. A nisi modi et quia rerum est optio maiores. Et aliquam voluptatem ex nihil iusto sit dolor quod! Aut numquam"
+	},
+	{
+		"category": "Laptops",
+		"image": "Laptops/b.jpg",
+		"name": "Alienware E",
+		"price": 58000,
+		"brand": "dell",
+		"description": "Lorem ipsum dolor sit amet. A nisi modi et quia rerum est optio maiores. Et aliquam voluptatem ex nihil iusto sit dolor quod! Aut numquam"
+	},
+	{
+		"category": "Laptops",
+		"image": "Laptops/c.jpg",
+		"name": "zenbook",
+		"price": 4000,
+		"brand": "asus",
+		"description": "Lorem ipsum dolor sit amet. A nisi modi et quia rerum est optio maiores. Et aliquam voluptatem ex nihil iusto sit dolor quod! Aut numquam"
+	},
+	{
+		"category": "Laptops",
+		"image": "Laptops/d.jpg",
+		"name": "thinkpad w",
+		"price": 5000,
+		"brand": "dell",
+		"description": "Lorem ipsum dolor sit amet. A nisi modi et quia rerum est optio maiores. Et aliquam voluptatem ex nihil iusto sit dolor quod! Aut numquam"
+	},
+	{
+		"category": "Monitors",
+		"image": "Monitors/a.jpg",
+		"name": "Gaya Led",
+		"price": 6000,
+		"brand": "Foxin",
+		"description": "Lorem ipsum dolor sit amet. A nisi modi et quia rerum est optio maiores. Et aliquam voluptatem ex nihil iusto sit dolor quod! Aut numquam"
+	},
+	{
+		"category": "Mouse",
+		"image": "Mouse/a.jpg",
+		"name": "lenovo 5",
+		"price": 500,
+		"brand": "croma",
+		"description": "Lorem ipsum dolor sit amet. A nisi modi et quia rerum est optio maiores. Et aliquam voluptatem ex nihil iusto sit dolor quod! Aut numquam"
+	},
+	{
+		"category": "Printers",
+		"image": "Printers/a.jpg",
+		"name": "Hp laser jet",
+		"price": 5000,
+		"brand": "hp",
+		"description": "Lorem ipsum dolor sit amet. A nisi modi et quia rerum est optio maiores. Et aliquam voluptatem ex nihil iusto sit dolor quod! Aut numquam"
+	},
+	{
+		"category": "Printers",
+		"image": "Printers/b.jpg",
+		"name": "Hp amazon",
+		"price": 5000,
+		"brand": "hp",
+		"description": "Lorem ipsum dolor sit amet. A nisi modi et quia rerum est optio maiores. Et aliquam voluptatem ex nihil iusto sit dolor quod! Aut numquam"
+	}
+]
